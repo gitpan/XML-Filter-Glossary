@@ -1,0 +1,8 @@
+Changes
+lib/XML/Filter/Glossary.pm
+lib/XML/Filter/Glossary/XBEL.pm
+Makefile.PL
+MANIFEST
+test.html
+test.pl
+test.xbel
